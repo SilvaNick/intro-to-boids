@@ -27,7 +27,7 @@ public class AvoidanceBehavior : FilteredFlockBehavior
                 avoidanceMove += (Vector2)(agent.transform.position - item.position);
             }
 
-            Debug.DrawLine(agent.transform.position, t, Random.ColorHSV(0f,1f,1f,1f,1f,1f,1f,1f), 1f);
+            //Debug.DrawLine(agent.transform.position, t, Random.ColorHSV(0f,1f,1f,1f,1f,1f,1f,1f), 1f);
 
         }
         if (nAvoid > 0)

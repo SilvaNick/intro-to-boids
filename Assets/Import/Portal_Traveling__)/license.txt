@@ -1,0 +1,11 @@
+Model Information:
+* title:	Portal Traveling :)
+* source:	https://sketchfab.com/3d-models/portal-traveling-8772d82deffe4b8c868641618049bd3f
+* author:	Vetech82 (https://sketchfab.com/Vetech82)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Portal Traveling :)" (https://sketchfab.com/3d-models/portal-traveling-8772d82deffe4b8c868641618049bd3f) by Vetech82 (https://sketchfab.com/Vetech82) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

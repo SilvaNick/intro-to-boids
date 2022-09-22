@@ -12,6 +12,7 @@ public class ChangeSpriteColor : MonoBehaviour
     {
         flockSprite = collision.gameObject.GetComponentInChildren<SpriteRenderer>();
         flockSprite.color = color;
+        collision.gameObject.SetActive(false);
     }
 
 }

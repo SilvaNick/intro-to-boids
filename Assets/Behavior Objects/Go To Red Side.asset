@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4be703753d3199f46abe8a6a37913c36, type: 3}
   m_Name: Go To Red Side
   m_EditorClassIdentifier: 
-  center: {x: 50, y: 0}
+  center: {x: 120, y: 0}
   raduis: 25
